@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+.nav-wrapper{
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+}
+.nav-wrapper ul{
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    
+}
+.nav-wrapper ul li{
+    margin: 6px;
+}
+.d-flex{
+    display: flex;
+}
